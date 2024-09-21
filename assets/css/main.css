@@ -140,7 +140,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #d0ad50;
+		color: #ffffff;
 		font-family: "Helvetica", sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
@@ -162,7 +162,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #d0ad50;
+		color: #ffffff;
 		font-weight: 600;
 	}
 
@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #d0ad50;
+		color: #ffffff;
 		font-weight: 600;
 		line-height: 1.5;
 		margin: 0 0 1rem 0;
@@ -189,7 +189,7 @@ input, select, textarea {
 		}
 
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
-			border-bottom: solid 1px #d0ad50;
+			border-bottom: solid 1px #ffffff;
 			width: -moz-max-content;
 			width: -webkit-max-content;
 			width: -ms-max-content;
@@ -253,7 +253,7 @@ input, select, textarea {
 	}
 
 	blockquote {
-		border-left: solid 4px #d0ad50;
+		border-left: solid 4px #ffffff;
 		font-style: italic;
 		margin: 0 0 2rem 0;
 		padding: 0.5rem 0 0.5rem 2rem;
@@ -284,7 +284,7 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-bottom: solid 1px #d0ad50;
+		border-bottom: solid 1px #ffffff;
 		margin: 2.75rem 0;
 	}
 
@@ -375,7 +375,7 @@ input, select, textarea {
 		}
 
 	label {
-		color: #d0ad50;
+		color: #ffffff;
 		display: block;
 		font-size: 0.8rem;
 		font-weight: 300;
@@ -401,7 +401,7 @@ input, select, textarea {
 		transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		background-color: transparent;
 		border-radius: 4px;
-		border: solid 1px #d0ad50;
+		border: solid 1px #ffffff;
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -426,8 +426,8 @@ input, select, textarea {
 		select:focus,
 		textarea:focus {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: #d0ad50;
-			box-shadow: 0 0 0 1px #d0ad50;
+			border-color: #ffffff;
+			box-shadow: 0 0 0 1px #ffffff;
 		}
 
 	select {
@@ -441,7 +441,7 @@ input, select, textarea {
 	}
 
 		select option {
-			color: #d0ad50;
+			color: #ffffff;
 			background: #013368;
 		}
 
@@ -581,7 +581,7 @@ input, select, textarea {
 
 	.box {
 		border-radius: 4px;
-		border: solid 1px #d0ad50;
+		border: solid 1px #ffffff;
 		margin-bottom: 2rem;
 		padding: 1.5em;
 	}
@@ -748,7 +748,7 @@ input, select, textarea {
 		}
 
 			ul.alt li {
-				border-top: solid 1px #d0ad50;
+				border-top: solid 1px #ffffff;
 				padding: 0.5em 0;
 			}
 
@@ -912,7 +912,7 @@ input, select, textarea {
 
 			ul.icons li a {
 				border-radius: 100%;
-				box-shadow: inset 0 0 0 1px #d0ad50;
+				box-shadow: inset 0 0 0 1px #ffffff;
 				display: inline-block;
 				height: 2.25rem;
 				line-height: 2.25rem;
@@ -941,7 +941,7 @@ input, select, textarea {
 	}
 
 		table tbody tr {
-			border: solid 1px #d0ad50;
+			border: solid 1px #ffffff;
 			border-left: 0;
 			border-right: 0;
 		}
@@ -955,7 +955,7 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #d0ad50;
+			color: #ffffff;
 			font-size: 0.9em;
 			font-weight: 600;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -963,11 +963,11 @@ input, select, textarea {
 		}
 
 		table thead {
-			border-bottom: solid 2px #d0ad50;
+			border-bottom: solid 2px #ffffff;
 		}
 
 		table tfoot {
-			border-top: solid 2px #d0ad50;
+			border-top: solid 2px #ffffff;
 		}
 
 		table.alt {
@@ -975,7 +975,7 @@ input, select, textarea {
 		}
 
 			table.alt tbody tr td {
-				border: solid 1px #d0ad50;
+				border: solid 1px #ffffff;
 				border-left-width: 0;
 				border-top-width: 0;
 			}
@@ -1014,8 +1014,8 @@ input, select, textarea {
 		background-color: transparent;
 		border-radius: 4px;
 		border: 0;
-		box-shadow: inset 0 0 0 1px #d0ad50;
-		color: #d0ad50 !important;
+		box-shadow: inset 0 0 0 1px #ffffff;
+		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.8rem;
